@@ -11,3 +11,5 @@ clone과 pull의 차이
 push나 clone을 진행한 후에 다운로드 하려함⇒ pull 
 
 vs에서 git ignore하면 git에 나타나지 않음
+
+11
